@@ -1,4 +1,4 @@
-# TCP-Client-Server-App-
+# TCP-Client-Server-App
 
 A simple client-server application built using WinSock in C++. The server listens on a specified port, accepts client connections, and basic communication between the client and the server.
 
